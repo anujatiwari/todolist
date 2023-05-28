@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e4ae6b9.css",
+    "main.js": "/static/js/main.f24a9ec6.js",
+    "static/media/—Pngtree—college entrance examination japanese frame_913139.jpg": "/static/media/—Pngtree—college entrance examination japanese frame_913139.e3e9d8a9b64feabd7edf.jpg",
+    "index.html": "/index.html",
+    "main.6e4ae6b9.css.map": "/static/css/main.6e4ae6b9.css.map",
+    "main.f24a9ec6.js.map": "/static/js/main.f24a9ec6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e4ae6b9.css",
+    "static/js/main.f24a9ec6.js"
+  ]
+}
